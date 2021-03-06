@@ -3,8 +3,13 @@ package com.example.mathitgame;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.view.View;
+import android.widget.TextView;
+import java.util.Random;
+
 
 public class MainActivity extends AppCompatActivity {
+    
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
